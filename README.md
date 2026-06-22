@@ -58,9 +58,6 @@ This project implements an end-to-end Machine Learning solution:
 - **Pandas** - Data manipulation
 - **NumPy** - Numerical computing
 
-### Deployment
-- **Render / Railway / AWS / Azure** - Cloud deployment options
-- **Uvicorn** - ASGI server
 
 ### Tools & Libraries
 - **Joblib** - Model serialization
@@ -178,10 +175,6 @@ d:\FAST-API-Ecommerces\
 - **Dockerization**: Containerize application for consistent deployment
 - **CI/CD**: Automate testing and deployment with GitHub Actions
 - **Frontend**: Build a simple web interface for agents and customers
-
-## 👨‍💻 Author
-
-Project Developer
 
 ## ⭐ Acknowledgements
 
